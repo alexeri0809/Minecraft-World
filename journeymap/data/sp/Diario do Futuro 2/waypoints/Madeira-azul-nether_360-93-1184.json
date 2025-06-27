@@ -1,0 +1,22 @@
+{
+  "id": "Madeira-azul-nether_360-93-1184",
+  "name": "Madeira azul nether",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16711693-waypoint-icon.png",
+  "x": 360,
+  "y": 93,
+  "z": -1184,
+  "r": 0,
+  "g": 255,
+  "b": 243,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

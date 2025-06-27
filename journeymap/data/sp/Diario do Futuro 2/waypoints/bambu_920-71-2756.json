@@ -1,0 +1,22 @@
+{
+  "id": "bambu_920-71-2756",
+  "name": "bambu",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16711935-waypoint-icon.png",
+  "x": 920,
+  "y": 71,
+  "z": -2756,
+  "r": 0,
+  "g": 255,
+  "b": 1,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Madeira-Vermeloha_-48-42-1720",
+  "name": "Madeira Vermeloha",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--130761-waypoint-icon.png",
+  "x": -48,
+  "y": 42,
+  "z": -1720,
+  "r": 254,
+  "g": 1,
+  "b": 55,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,460 @@
+[00:37:13] [main/INFO]: ModLauncher running: args [--username, alexsteam08, --version, diario do futuro, --gameDir, C:\Users\alexe\AppData\Roaming\.minecraft\versions\diario do futuro, --assetsDir, C:\Users\alexe\AppData\Roaming\.minecraft\assets, --assetIndex, 1.16, --uuid, 95fadc64-a854-11ef-9c52-9c6b00470e68, --accessToken, ????????, --userType, mojang, --versionType, modified, --width, 1366, --height, 768, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.34, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550, --fullscreen]
+[00:37:13] [main/INFO]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_51 by Oracle Corporation
+[00:37:13] [main/WARN]: LEGACY JDK DETECTED, SECURED JAR HANDLING DISABLED
+[00:37:14] [main/INFO]: OptiFineTransformationService.onLoad
+[00:37:14] [main/INFO]: OptiFine ZIP file: C:\Users\alexe\AppData\Roaming\.minecraft\versions\diario do futuro\mods\OptiFine-1.16.5_HD_U_G8_pre2.jar
+[00:37:14] [main/INFO]: Target.PRE_CLASS is available
+[00:37:14] [main/INFO]: Added Lets Encrypt root certificates as additional trust
+[00:37:14] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/alexe/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[00:37:14] [main/INFO]: OptiFineTransformationService.initialize
+[00:37:21] [main/INFO]: OptiFineTransformationService.transformers
+[00:37:21] [main/INFO]: Targets: 308
+[00:37:23] [main/INFO]: additionalClassesLocator: [optifine., net.optifine.]
+[00:37:27] [main/INFO]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[00:37:27] [main/INFO]: Launching target 'fmlclient' with arguments [--version, diario do futuro, --gameDir, C:\Users\alexe\AppData\Roaming\.minecraft\versions\diario do futuro, --assetsDir, C:\Users\alexe\AppData\Roaming\.minecraft\assets, --uuid, 95fadc64-a854-11ef-9c52-9c6b00470e68, --username, alexsteam08, --assetIndex, 1.16, --accessToken, ????????, --userType, mojang, --versionType, modified, --width, 1366, --height, 768, --fullscreen]
+[00:38:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:38:16] [main/INFO]: Setting user: alexsteam08
+[00:38:19] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[00:38:19] [main/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[00:38:21] [main/INFO]: [OptiFine] 
+[00:38:21] [main/INFO]: [OptiFine] OptiFine_1.16.5_HD_U_G8_pre2
+[00:38:21] [main/INFO]: [OptiFine] Build: 20210305-002749
+[00:38:21] [main/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[00:38:21] [main/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[00:38:21] [main/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[00:38:21] [main/INFO]: [OptiFine] LWJGL: 3.3.0 Win32 WGL EGL OSMesa VisualC DLL
+[00:38:21] [main/INFO]: [OptiFine] OpenGL: AMD Radeon(TM) Vega 6 Graphics, version 4.6.14830 Compatibility Profile Context 21.10.34 27.20.21034.37, ATI Technologies Inc.
+[00:38:21] [main/INFO]: [OptiFine] OpenGL Version: 4.6.14830
+[00:38:21] [main/INFO]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[00:38:22] [main/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[00:38:22] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[00:38:22] [main/INFO]: [Shaders] OpenGL Version: 4.6.14830 Compatibility Profile Context 21.10.34 27.20.21034.37
+[00:38:22] [main/INFO]: [Shaders] Vendor:  ATI Technologies Inc.
+[00:38:22] [main/INFO]: [Shaders] Renderer: AMD Radeon(TM) Vega 6 Graphics
+[00:38:22] [main/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[00:38:22] [main/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[00:38:22] [main/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[00:38:22] [main/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[00:38:22] [main/INFO]: [Shaders] Load shaders configuration.
+[00:38:22] [main/INFO]: [Shaders] No shaderpack loaded.
+[00:38:22] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[00:38:23] [VersionCheck/INFO]: [OptiFine] Version found: G7
+[00:38:27] [main/INFO]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[00:38:27] [main/INFO]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[00:38:30] [main/INFO]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[00:38:30] [main/INFO]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[00:38:31] [modloading-worker-3/INFO]: Initializing Update Checker...
+[00:38:31] [ Iron Furnaces Update Checker/INFO]: Starting Update Check...
+[00:38:34] [ Iron Furnaces Update Checker/INFO]: Update Check done!
+[00:38:34] [ Iron Furnaces Update Checker/INFO]: Iron Furnaces is up to date!
+[00:38:35] [modloading-worker-2/INFO]: Registering all blocks and items from BlockCarpentry
+[00:38:35] [modloading-worker-2/INFO]: Registering blocks copy BlockCarpentry
+[00:38:35] [modloading-worker-2/INFO]: Registering items copy BlockCarpentry
+[00:38:35] [modloading-worker-2/INFO]: Registering tiles copy BlockCarpentry
+[00:38:35] [modloading-worker-2/INFO]: Registering containers copy BlockCarpentry
+[00:38:35] [modloading-worker-2/INFO]: Registering points of interest copy Blockcarpentry
+[00:38:35] [modloading-worker-2/INFO]: Registered all blocks and items from BlockCarpentry
+[00:38:37] [modloading-worker-0/INFO]: Forge mod loading, version 36.2.34, for MC 1.16.5 with MCP 20210115.111550
+[00:38:37] [modloading-worker-0/INFO]: MinecraftForge v36.2.34 Initialized
+[00:38:39] [modloading-worker-1/INFO]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[00:38:39] [modloading-worker-1/INFO]: Registered plugin: com.blakebr0.mysticalagradditions.lib.ModCorePlugin
+[00:39:10] [main/INFO]: Loaded book jsons on Thread[Render thread,10,main] in 537 ms
+[00:39:10] [main/WARN]: Registry minecraft:item: The object debug has been registered twice for the same name citadel:debug.
+[00:39:10] [main/WARN]: Registry minecraft:item: The object citadel_book has been registered twice for the same name citadel:citadel_book.
+[00:39:10] [main/WARN]: Registry minecraft:item: The object effect_item has been registered twice for the same name citadel:effect_item.
+[00:39:10] [main/WARN]: Registry minecraft:item: The object fancy_item has been registered twice for the same name citadel:fancy_item.
+[00:39:11] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[00:39:11] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[00:39:15] [main/INFO]: Narrator library for x64 successfully loaded
+[00:39:16] [main/INFO]: Reloading ResourceManager: Default, Mod Resources
+[00:39:16] [main/INFO]: [OptiFine] *** Reloading textures ***
+[00:39:16] [main/INFO]: [OptiFine] Resource packs: Mod Resources
+[00:39:17] [main/INFO]: [OptiFine] *** Reflector Forge ***
+[00:39:17] [main/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[00:39:17] [main/WARN]: [OptiFine] (Reflector) More than one method found: net.minecraftforge.client.ForgeHooksClient.renderMainMenu
+[00:39:17] [main/WARN]: [OptiFine] (Reflector)  - public static void net.minecraftforge.client.ForgeHooksClient.renderMainMenu(net.minecraft.client.gui.screen.MainMenuScreen,com.mojang.blaze3d.matrix.MatrixStack,net.minecraft.client.gui.FontRenderer,int,int,int)
+[00:39:17] [main/WARN]: [OptiFine] (Reflector)  - public static void net.minecraftforge.client.ForgeHooksClient.renderMainMenu(net.minecraft.client.gui.screen.MainMenuScreen,com.mojang.blaze3d.matrix.MatrixStack,net.minecraft.client.gui.FontRenderer,int,int)
+[00:39:17] [main/INFO]: [OptiFine] (Reflector) Field not present: net.minecraftforge.client.model.pipeline.LightUtil.itemConsumer
+[00:39:17] [main/INFO]: [OptiFine] (Reflector) Field not present: net.minecraftforge.client.model.pipeline.LightUtil.tessellator
+[00:39:17] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[00:39:17] [main/INFO]: [OptiFine] *** Reflector Vanilla ***
+[00:39:17] [Worker-Main-6/INFO]: 78 material render infos loaded
+[00:39:17] [Worker-Main-6/INFO]: [OptiFine] Multitexture: false
+[00:39:21] [modloading-worker-1/INFO]: CLIENT CONFIG LOADED
+[00:39:28] [modloading-worker-1/INFO]: BLACKLIST RELOADED
+[00:39:28] [modloading-worker-1/INFO]: COMMON CONFIG LOADED
+[00:39:28] [Thread-1/INFO]: BLACKLIST RELOADED
+[00:39:28] [Thread-1/INFO]: COMMON CONFIG LOADED
+[00:39:29] [Immersive Engineering Contributors Thread/INFO]: Attempting to download special revolvers from GitHub
+[00:39:29] [Worker-Main-5/INFO]: Found and loaded EMC mapper: CraftingMapper, with priority 0
+[00:39:29] [Worker-Main-5/INFO]: Found and loaded EMC mapper: APICustomEMCMapper, with priority 0
+[00:39:29] [Worker-Main-5/INFO]: Found and loaded EMC mapper: BrewingMapper, with priority 0
+[00:39:29] [Worker-Main-5/INFO]: Found and loaded EMC mapper: TippedArrowMapper, with priority 0
+[00:39:29] [Worker-Main-5/INFO]: Found and loaded EMC mapper: OresBlacklistMapper, with priority 0
+[00:39:30] [Worker-Main-5/INFO]: Found and loaded EMC mapper: CustomConversionMapper, with priority 0
+[00:39:30] [Worker-Main-5/INFO]: Found and loaded EMC mapper: CustomEMCMapper, with priority 0
+[00:39:30] [Worker-Main-5/INFO]: Found and loaded RecipeType Mapper: Smithing, with priority 0
+[00:39:30] [Worker-Main-5/INFO]: Found and loaded RecipeType Mapper: FallbackRecipeType, with priority -2147483648
+[00:39:30] [Worker-Main-5/INFO]: Found and loaded RecipeType Mapper: VanillaRecipeTypes, with priority 0
+[00:39:30] [Worker-Main-5/INFO]: Found and loaded NBT Processor: EnchantmentProcessor, with priority 0
+[00:39:30] [Worker-Main-5/INFO]: Found and loaded NBT Processor: DamageProcessor, with priority 2147483647
+[00:39:30] [Worker-Main-5/INFO]: Found and loaded NBT Processor: StoredEMCProcessor, with priority 0
+[00:39:30] [Worker-Main-5/INFO]: No plugins for JourneyMap API discovered.
+[00:39:30] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: jei:gui/icons/recipe_transfer, 7 -> 14
+[00:39:31] [Worker-Main-5/INFO]: Post Initialization ( started )
+[00:39:32] [Worker-Main-5/INFO]: Post Initialization ( ended after 1178ms )
+[00:39:32] [Worker-Main-5/INFO]: Setting up BlockCarpentry mod
+[00:39:33] [Forge Version Check/INFO]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.16.5/changelog.json
+[00:39:33] [Forge Version Check/INFO]: [immersiveengineering] Found status: UP_TO_DATE Current: 1.16.5-5.1.0-148 Target: null
+[00:39:33] [Forge Version Check/INFO]: [projecte] Starting version check at https://raw.githubusercontent.com/sinkillerj/ProjectE/mc1.16.x/update.json
+[00:39:33] [Forge Version Check/INFO]: [projecte] Found status: UP_TO_DATE Current: PE1.0.2 Target: null
+[00:39:33] [Forge Version Check/INFO]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[00:39:33] [Worker-Main-6/INFO]: [OptiFine] Multitexture: false
+[00:39:33] [Worker-Main-5/INFO]: [OptiFine] Multitexture: false
+[00:39:34] [Forge Version Check/WARN]: Failed to process update information
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:174) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:201) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1$$Lambda$12228/1926500232.accept(Unknown Source) [?:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:1.8.0_51]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:142) [?:?]
+[00:39:34] [Forge Version Check/INFO]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[00:39:34] [Forge Version Check/WARN]: Failed to process update information
+java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=cfm
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1889) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1884) ~[?:1.8.0_51]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1883) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1456) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440) ~[?:1.8.0_51]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254) ~[?:1.8.0_51]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:177) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:201) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1$$Lambda$12228/1926500232.accept(Unknown Source) [?:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:1.8.0_51]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:142) [?:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=cfm
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1839) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440) ~[?:1.8.0_51]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480) ~[?:1.8.0_51]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338) ~[?:1.8.0_51]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:159) ~[?:?]
+	... 4 more
+[00:39:34] [Forge Version Check/INFO]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[00:39:34] [Forge Version Check/INFO]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[00:39:34] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[00:39:34] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 36.2.34 Target: null
+[00:39:34] [Forge Version Check/INFO]: [cyclic] Starting version check at https://raw.githubusercontent.com/Lothrazar/cyclic/trunk/1.16/update.json
+[00:39:35] [Forge Version Check/INFO]: [cyclic] Found status: BETA Current: 1.16.5-1.6.1 Target: 1.6.0
+[00:39:50] [Worker-Main-4/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[00:39:50] [Worker-Main-4/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[00:39:50] [Worker-Main-4/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[00:39:50] [Worker-Main-4/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[00:40:24] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
+[00:40:24] [Worker-Main-4/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[00:40:24] [Worker-Main-4/INFO]: [OptiFine] Multipass connected textures: false
+[00:40:24] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[00:40:25] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[00:40:25] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[00:40:25] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[00:40:25] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[00:40:25] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[00:40:26] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[00:40:26] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[00:40:26] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[00:40:26] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[00:40:26] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[00:40:26] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[00:40:26] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[00:40:26] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[00:40:26] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[00:40:26] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[00:40:26] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[00:40:27] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[00:40:27] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[00:40:27] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[00:40:27] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[00:40:27] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[00:40:27] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[00:40:27] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[00:40:27] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[00:40:27] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[00:40:27] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[00:40:28] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[00:40:28] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[00:40:28] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[00:40:28] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[00:40:28] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[00:40:28] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[00:40:28] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[00:40:28] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[00:40:28] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[00:40:28] [Worker-Main-4/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[00:40:28] [Worker-Main-4/INFO]: [OptiFine] Multipass connected textures: false
+[00:40:28] [Worker-Main-4/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[00:42:06] [Worker-Main-4/INFO]: [OptiFine] Mipmap levels: 4
+[00:42:06] [Worker-Main-4/INFO]: Stitching Revolver Textures!
+[00:42:06] [Worker-Main-4/INFO]: Stitching textures from BlockCarpentry
+[00:42:06] [Worker-Main-4/INFO]: Stitched all textures from BlockCarpentry
+[00:42:06] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[00:42:06] [Worker-Main-5/INFO]: [OptiFine] Scaled too small texture: extrautilitiesrebirth:particle/rainbow_particle, 4 -> 8
+[00:42:07] [main/INFO]: Initializing Packet Registries
+[00:42:08] [Worker-Main-8/INFO]: Registering block color handler
+[00:42:08] [Worker-Main-8/INFO]: Registered block color handler
+[00:42:08] [Worker-Main-8/INFO]: Setting up client things for BlockCarpentry
+[00:42:09] [main/INFO]: Journeymap Initializing
+[00:42:09] [Worker-Main-7/ERROR]: Using missing texture, unable to load minecraft:textures/0.png : java.io.FileNotFoundException: minecraft:textures/0.png
+[00:42:11] [main/INFO]: JourneyMap log initialized.
+[00:42:11] [main/INFO]: initialize ENTER
+[00:42:11] [main/INFO]: [ClientAPI] built with JourneyMap API 1.8-SNAPSHOT
+[00:42:11] [main/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[00:42:12] [Worker-Main-5/ERROR]: Using missing texture, unable to load immersiveengineering:textures/revolvers/revolver_einhorn.png : java.io.FileNotFoundException: immersiveengineering:textures/revolvers/revolver_einhorn.png
+[00:42:12] [main/WARN]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/silla_de_distorsionada, 572 -> 576
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/silla_del_abedul, 572 -> 576
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/taburete_de_roble_oscuro, 358 -> 368
+[00:42:12] [Worker-Main-4/WARN]: Texture decoration_mod:items/taburete_de_roble_oscuro with size 368x415 limits mip level from 4 to 0
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/silla_del_ebano, 572 -> 576
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/taburete_de_abeto, 358 -> 368
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/taburete_de_abedul, 358 -> 368
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/silla_de_la_acacia, 572 -> 576
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/gbdgb, 750 -> 752
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/silla_del_roble_oscuro, 572 -> 576
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/camino_de_piedras, 789 -> 800
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/taburete_de_roble, 358 -> 368
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:blocks/pc_teclado, 180 -> 192
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/silla_de_carmesi, 572 -> 576
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:blocks/concrete_black, 180 -> 192
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/taburete_de_la_jungla, 358 -> 368
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/taburete_de_ebano, 449 -> 464
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/taburete_distorsionado, 358 -> 368
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/silla_del_roble, 572 -> 576
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/taburete_de_acacia, 358 -> 368
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/silla_del_abeto, 572 -> 576
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: decoration_mod:blocks/candy1, 8 -> 16
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/silla_de_la_jungla, 572 -> 576
+[00:42:12] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: decoration_mod:items/taburete_de_carmesi, 358 -> 368
+[00:42:12] [Worker-Main-4/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 0, because of minimum power of two: 1
+[00:42:12] [main/INFO]: initialize EXIT, elapsed count 1 avg 3806,28ms
+[00:42:12] [main/WARN]: Mod 'journeymap' took 3.819 s to run a deferred task.
+[00:42:17] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
+[00:42:17] [Worker-Main-4/INFO]: [OptiFine] Sprite size: 64
+[00:42:17] [Worker-Main-4/INFO]: [OptiFine] Mipmap levels: 6
+[00:42:17] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: cyclic:curios/feet, 16 -> 64
+[00:42:17] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Sprite size: 64
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Mipmap levels: 6
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: cyclic:curios/feet, 16 -> 64
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Sprite size: 64
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Mipmap levels: 6
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: cyclic:curios/feet, 16 -> 64
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Sprite size: 64
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Mipmap levels: 6
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: cyclic:curios/feet, 16 -> 64
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Sprite size: 64
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Mipmap levels: 6
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: cyclic:curios/feet, 16 -> 64
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Sprite size: 64
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Mipmap levels: 6
+[00:42:18] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: cyclic:curios/feet, 16 -> 64
+[00:42:19] [Worker-Main-4/INFO]: Processing InterModCommunication
+[00:42:19] [Worker-Main-4/INFO]: Processed InterModCommunication
+[00:42:19] [Worker-Main-8/INFO]: Registered plugin at blusunrize.immersiveengineering.common.util.compat.jade.IEWailaPlugin
+[00:42:19] [Worker-Main-8/INFO]: Registered plugin at snownee.jade.JadePlugin
+[00:42:20] [Worker-Main-8/INFO]: Registered plugin at snownee.jade.JadeClientPlugin
+[00:42:20] [Worker-Main-8/INFO]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[00:42:20] [Worker-Main-8/INFO]: Registered plugin at moze_intel.projecte.integration.hwyla.PEHwylaPlugin
+[00:42:20] [Worker-Main-8/INFO]: Registered plugin at com.blakebr0.mysticalagriculture.compat.HwylaCompat
+[00:42:20] [main/INFO]: Journeymap PostInit
+[00:42:20] [main/ERROR]: Couldn't locate icons for flat: C:\Users\alexe\AppData\Roaming\.minecraft\versions\diario%20do%20futuro\mods\journeymap-1.16.5-5.8.6.jar\assets\journeymap\theme\flat
+[00:42:20] [main/INFO]: Preloaded theme textures: 0
+[00:42:20] [main/INFO]: postInitialize EXIT, elapsed count 1 avg 672,42ms
+[00:42:26] [JM-VersionCheck-1/ERROR]: Could not check version URL
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387) ~[?:1.8.0_51]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:275) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:254) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:117) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:314) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:219) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at journeymap.common.version.VersionCheck.makeGetRequest(VersionCheck.java:211) [?:1.16.5-5.8.6]
+	at journeymap.common.version.VersionCheck.lambda$checkVersion$1(VersionCheck.java:121) [?:1.16.5-5.8.6]
+	at journeymap.common.version.VersionCheck$$Lambda$12899/1638396954.run(Unknown Source) [?:1.16.5-5.8.6]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_51]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_51]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292) ~[?:1.8.0_51]
+	at sun.security.validator.Validator.validate(Validator.java:260) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
+	... 28 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145) ~[?:1.8.0_51]
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131) ~[?:1.8.0_51]
+	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292) ~[?:1.8.0_51]
+	at sun.security.validator.Validator.validate(Validator.java:260) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
+	... 28 more
+[00:42:29] [JM-VersionCheck-1/ERROR]: Could not check version URL
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387) ~[?:1.8.0_51]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:275) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:254) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:117) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:314) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:219) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at journeymap.common.version.VersionCheck.makeGetRequest(VersionCheck.java:211) [?:1.16.5-5.8.6]
+	at journeymap.common.version.VersionCheck.lambda$checkVersion$1(VersionCheck.java:122) [?:1.16.5-5.8.6]
+	at journeymap.common.version.VersionCheck$$Lambda$12899/1638396954.run(Unknown Source) [?:1.16.5-5.8.6]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_51]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_51]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292) ~[?:1.8.0_51]
+	at sun.security.validator.Validator.validate(Validator.java:260) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
+	... 28 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145) ~[?:1.8.0_51]
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131) ~[?:1.8.0_51]
+	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292) ~[?:1.8.0_51]
+	at sun.security.validator.Validator.validate(Validator.java:260) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
+	... 28 more
+[00:42:42] [main/INFO]: OpenAL initialized.
+[00:42:42] [main/INFO]: Sound engine started
+[00:42:43] [main/INFO]: Created: 128x256x0 jei:textures/atlas/gui.png-atlas
+[00:42:43] [main/INFO]: [OptiFine] Animated sprites: 0
+[00:42:43] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/config_button
+[00:42:43] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/config_button
+[00:42:43] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/config_button_cheat
+[00:42:43] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/config_button_cheat
+[00:42:43] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/arrow_previous
+[00:42:43] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/arrow_previous
+[00:42:43] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/bookmark_button_enabled
+[00:42:43] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/bookmark_button_enabled
+[00:42:43] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/arrow_next
+[00:42:43] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/arrow_next
+[00:42:43] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: minecraft:missingno
+[00:42:43] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: minecraft:missingno
+[00:42:43] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/info
+[00:42:43] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/info
+[00:42:43] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/recipe_transfer
+[00:42:43] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: jei:gui/icons/recipe_transfer
+[00:42:43] [main/INFO]: Created: 4096x4096x0 minecraft:textures/atlas/blocks.png-atlas
+[00:42:46] [main/INFO]: [OptiFine] Animated sprites: 295
+[00:42:46] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[00:42:46] [main/INFO]: [OptiFine] Animated sprites: 0
+[00:42:46] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[00:42:46] [main/INFO]: [OptiFine] Animated sprites: 0
+[00:42:46] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[00:42:46] [main/INFO]: [OptiFine] Animated sprites: 0
+[00:42:46] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/chest.png-atlas
+[00:42:46] [main/INFO]: [OptiFine] Animated sprites: 0
+[00:42:46] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[00:42:46] [main/INFO]: [OptiFine] Animated sprites: 0
+[00:42:46] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[00:42:46] [main/INFO]: [OptiFine] Animated sprites: 0
+[00:43:04] [main/INFO]: Model replacement took 163 ms
+[00:43:13] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[00:43:14] [main/INFO]: [OptiFine] Animated sprites: 0
+[00:43:14] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[00:43:14] [main/INFO]: [OptiFine] Animated sprites: 0
+[00:43:14] [main/INFO]: Created: 128x256x0 minecraft:textures/atlas/mob_effects.png-atlas
+[00:43:14] [main/INFO]: [OptiFine] Animated sprites: 0
+[00:43:14] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: cyclic:mob_effect/swimspeed
+[00:43:14] [main/WARN]: [OptiFine] Invalid grid V: 17, icon: cyclic:mob_effect/swimspeed
+[00:43:14] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: cyclic:mob_effect/swimspeed
+[00:43:14] [main/WARN]: [OptiFine] Invalid grid V: 17, icon: cyclic:mob_effect/swimspeed
+[00:43:14] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: cyclic:mob_effect/stun
+[00:43:14] [main/WARN]: [OptiFine] Invalid grid V: 17, icon: cyclic:mob_effect/stun
+[00:43:14] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: cyclic:mob_effect/stun
+[00:43:14] [main/WARN]: [OptiFine] Invalid grid V: 17, icon: cyclic:mob_effect/stun
+[00:43:14] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: cyclic:curios/feet
+[00:43:14] [main/WARN]: [OptiFine] Invalid grid V: 17, icon: cyclic:curios/feet
+[00:43:14] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: cyclic:curios/feet
+[00:43:14] [main/WARN]: [OptiFine] Invalid grid V: 17, icon: cyclic:curios/feet
+[00:43:14] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: minecraft:missingno
+[00:43:14] [main/WARN]: [OptiFine] Invalid grid V: 17, icon: minecraft:missingno
+[00:43:14] [main/WARN]: [OptiFine] Invalid grid V: 16, icon: minecraft:missingno
+[00:43:14] [main/WARN]: [OptiFine] Invalid grid V: 17, icon: minecraft:missingno
+[00:43:14] [main/INFO]: [OptiFine] *** Reloading custom textures ***
+[00:43:14] [main/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[00:43:15] [main/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[00:43:15] [main/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[00:44:19] [main/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[00:44:21] [main/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[00:44:21] [main/WARN]: [OptiFine] Unknown resource pack file: mod_resources
+[00:44:21] [main/INFO]: [OptiFine] Disable Forge light pipeline
+[00:44:21] [main/INFO]: [OptiFine] Set ForgeConfig.CLIENT.forgeLightPipelineEnabled=false
+[00:44:22] [main/INFO]: [org.tlauncher.util.TLModCfg:<clinit>:28]: [TLSkinCape] Current TLSkinCape version is 1.17
+[00:44:22] [main/INFO]: [org.tlauncher.util.TLModCfg:<clinit>:51]: [TLSkinCape] Current Minecraft version is 1.15.
+[00:44:22] [main/INFO]: [org.tlauncher.util.TLModCfg:<clinit>:55]: [TLSkinCape] OptiFine detected.

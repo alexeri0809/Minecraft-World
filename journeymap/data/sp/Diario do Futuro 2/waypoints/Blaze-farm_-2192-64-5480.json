@@ -1,0 +1,22 @@
+{
+  "id": "Blaze-farm_-2192-64-5480",
+  "name": "Blaze farm",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--175352-waypoint-icon.png",
+  "x": -2192,
+  "y": 64,
+  "z": 5480,
+  "r": 253,
+  "g": 83,
+  "b": 8,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

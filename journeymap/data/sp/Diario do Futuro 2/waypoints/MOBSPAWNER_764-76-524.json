@@ -1,0 +1,22 @@
+{
+  "id": "MOBSPAWNER_764-76-524",
+  "name": "MOBSPAWNER",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--12106885-waypoint-icon.png",
+  "x": 764,
+  "y": 76,
+  "z": -524,
+  "r": 71,
+  "g": 67,
+  "b": 123,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

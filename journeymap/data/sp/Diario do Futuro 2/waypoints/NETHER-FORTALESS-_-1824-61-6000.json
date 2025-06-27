@@ -1,0 +1,22 @@
+{
+  "id": "NETHER-FORTALESS-_-1824-61-6000",
+  "name": "NETHER FORTALESS!!!!!!",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7994961-waypoint-icon.png",
+  "x": -1824,
+  "y": 61,
+  "z": 6000,
+  "r": 134,
+  "g": 1,
+  "b": 175,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

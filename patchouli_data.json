@@ -1,0 +1,32 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "blockcarpentry:carpentering_manual": {
+      "viewedEntries": [
+        "blockcarpentry:frame_blocks/frame_blocks_general",
+        "blockcarpentry:chiseling/chisel",
+        "blockcarpentry:chiseling/wrench",
+        "blockcarpentry:chiseling/paintbrush",
+        "blockcarpentry:frame_blocks/hammer",
+        "blockcarpentry:chiseling/collapse",
+        "blockcarpentry:frame_blocks/illusion_blocks",
+        "blockcarpentry:chiseling/coloring",
+        "blockcarpentry:frame_blocks/functionality"
+      ],
+      "bookmarks": [],
+      "history": [
+        "blockcarpentry:chiseling/chisel",
+        "blockcarpentry:chiseling/wrench",
+        "blockcarpentry:frame_blocks/functionality",
+        "blockcarpentry:chiseling/coloring",
+        "blockcarpentry:frame_blocks/illusion_blocks",
+        "blockcarpentry:chiseling/collapse",
+        "blockcarpentry:frame_blocks/hammer",
+        "blockcarpentry:chiseling/paintbrush",
+        "blockcarpentry:frame_blocks/frame_blocks_general"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
