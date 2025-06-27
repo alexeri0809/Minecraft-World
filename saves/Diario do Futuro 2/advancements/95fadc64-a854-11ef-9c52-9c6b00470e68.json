@@ -557,15 +557,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/jungle_cabinet": {
-    "criteria": {
-      "has_log": "2025-06-26 23:31:53 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_oak_blinds": {
     "criteria": {
       "has_log": "2025-06-26 21:52:37 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-26 23:31:53 +0100"
     },
     "done": true
   },
@@ -823,9 +823,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/blue_sofa": {
+  "cfm:recipes/cfm/yellow_sofa": {
     "criteria": {
-      "has_wool": "2025-06-26 23:15:29 +0100"
+      "has_wool": "2025-06-26 21:40:50 +0100"
     },
     "done": true
   },
@@ -835,9 +835,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/yellow_sofa": {
+  "cfm:recipes/cfm/blue_sofa": {
     "criteria": {
-      "has_wool": "2025-06-26 21:40:50 +0100"
+      "has_wool": "2025-06-26 23:15:29 +0100"
     },
     "done": true
   },
@@ -1636,9 +1636,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/birch_kitchen_drawer": {
+  "cfm:recipes/cfm/stone_table": {
     "criteria": {
-      "has_chest": "2025-06-26 22:16:51 +0100"
+      "has_planks": "2025-06-26 21:40:50 +0100"
     },
     "done": true
   },
@@ -1648,9 +1648,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stone_table": {
+  "cfm:recipes/cfm/birch_kitchen_drawer": {
     "criteria": {
-      "has_planks": "2025-06-26 21:40:50 +0100"
+      "has_chest": "2025-06-26 22:16:51 +0100"
     },
     "done": true
   },
@@ -1816,15 +1816,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/birch_kitchen_sink_light": {
-    "criteria": {
-      "has_top": "2025-06-26 22:13:09 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/granite_desk": {
     "criteria": {
       "has_planks": "2025-06-26 21:40:50 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_sink_light": {
+    "criteria": {
+      "has_top": "2025-06-26 22:13:09 +0100"
     },
     "done": true
   },
@@ -1948,15 +1948,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/oak_crate": {
-    "criteria": {
-      "has_log": "2025-06-26 21:52:29 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/trampoline": {
     "criteria": {
       "has_wool": "2025-06-26 21:40:50 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_crate": {
+    "criteria": {
+      "has_log": "2025-06-26 21:52:29 +0100"
     },
     "done": true
   },
@@ -2044,15 +2044,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/light_gray_kitchen_drawer": {
-    "criteria": {
-      "has_terracotta": "2025-06-26 21:56:01 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-06-26 21:52:29 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_terracotta": "2025-06-26 21:56:01 +0100"
     },
     "done": true
   },
@@ -4767,15 +4767,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/crimson_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-06-26 22:14:41 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/fridge_dark": {
     "criteria": {
       "has_iron": "2025-06-26 21:54:00 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-06-26 22:14:41 +0100"
     },
     "done": true
   },
@@ -5408,15 +5408,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_acacia_mail_box": {
-    "criteria": {
-      "has_chest": "2025-06-26 22:16:51 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/post_box": {
     "criteria": {
       "has_iron": "2025-06-26 21:54:00 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-26 22:16:51 +0100"
     },
     "done": true
   },
@@ -6456,15 +6456,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/white_picket_gate": {
-    "criteria": {
-      "has_concrete": "2025-06-26 22:13:09 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-06-26 21:52:37 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-06-26 22:13:09 +0100"
     },
     "done": true
   },
@@ -6624,15 +6624,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_jungle_mail_box": {
-    "criteria": {
-      "has_chest": "2025-06-26 22:16:51 +0100"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/jungle": {
     "criteria": {
       "has_wood": "2025-06-26 21:40:50 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2025-06-26 22:16:51 +0100"
     },
     "done": true
   },
@@ -7302,15 +7302,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/fridge_light": {
-    "criteria": {
-      "has_iron": "2025-06-26 21:54:00 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/oak_coffee_table": {
     "criteria": {
       "has_log": "2025-06-26 21:52:29 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/fridge_light": {
+    "criteria": {
+      "has_iron": "2025-06-26 21:54:00 +0100"
     },
     "done": true
   },

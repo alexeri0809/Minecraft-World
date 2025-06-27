@@ -138,3 +138,11 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
 	... 28 more
+[01:06:52] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[01:09:50] [main/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[01:09:52] [main/INFO] [WaypointStore] Loaded 9 waypoints from C:\Users\alexe\AppData\Roaming\.minecraft\versions\diario do futuro\journeymap\data\sp\Diario do Futuro 2\waypoints
+[01:09:52] [main/INFO] [JourneymapClient] Mapping started in C:\Users\alexe\AppData\Roaming\.minecraft\versions\diario do futuro\journeymap\data\sp\Diario do Futuro 2\overworld. Memory: 2472MB total, 507MB free 
+[01:10:30] [main/INFO] [ChatLog] 
+[01:49:56] [main/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[01:49:56] [main/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[02:31:29] [main/INFO] [JourneymapClient] Mapping halted in C:\Users\alexe\AppData\Roaming\.minecraft\versions\diario do futuro\journeymap\data\mp\offline\minecraft:overworld
