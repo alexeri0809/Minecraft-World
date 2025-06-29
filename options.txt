@@ -124,15 +124,15 @@ key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
-key_key.toggle_focus.desc:key.keyboard.tab
 key_key.curios.open.desc:key.keyboard.g
+key_key.toggle_focus.desc:key.keyboard.tab
 key_key.tconstruct.helmet_interact:key.keyboard.z
 key_key.tconstruct.leggings_interact:key.keyboard.i
 key_key.cyclic.cake:key.keyboard.x
 key_key.projecte.helmet_toggle:key.keyboard.x:SHIFT
 key_key.projecte.boots_toggle:key.keyboard.x
 key_key.projecte.charge:key.keyboard.v
-key_key.projecte.extra_function:key.keyboard.unknown
+key_key.projecte.extra_function:key.keyboard.comma
 key_key.projecte.fire_projectile:key.keyboard.r
 key_key.projecte.mode:key.keyboard.g
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.grave.accent

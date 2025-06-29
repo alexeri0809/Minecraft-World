@@ -1,9 +1,9 @@
-[00:42:11] [main/INFO] [JMLogger] JourneyMap log initialized.
-[00:42:11] [main/INFO] [JourneymapClient] initialize ENTER
-[00:42:11] [main/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.8-SNAPSHOT
-[00:42:11] [main/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[00:42:12] [main/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
-[00:42:12] [Render thread/INFO] [?] Version: JourneyMap 1.16.5-5.8.6, built with Forge 1.16.5-36.2.22
+[01:36:55] [main/INFO] [JMLogger] JourneyMap log initialized.
+[01:36:55] [main/INFO] [JourneymapClient] initialize ENTER
+[01:36:55] [main/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.8-SNAPSHOT
+[01:36:55] [main/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[01:36:55] [main/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[01:36:55] [Render thread/INFO] [?] Version: JourneyMap 1.16.5-5.8.6, built with Forge 1.16.5-36.2.22
 Forge: 36.2.34
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=pt_pt, locale=en_us
 Features: 
@@ -16,17 +16,17 @@ Features:
 	MapCaves : singleplayer = true , multiplayer = true
 	MapBiome : singleplayer = true , multiplayer = true
 MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.8.6, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=1.0, showDayNight=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_circle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=-80, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
-MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.8.6, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=1.0, showDayNight=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_rectangle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=0, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.8.6, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=1.0, showDayNight=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_rectangle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=-140, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
 FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.8.6, zoomLevel=0, showPlayers=true, waypointIconScale=1.0, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showPlayerLoc=true, showKeys=true, playerDisplayScale=1.0, showMobs=true, showPets=true, waypointLabelScale=1.0, preferredMapType=day, mobDisplay=jm.common.entity_display.dots, showSelf=true, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, selfDisplayScale=1.0, showGrid=true, showMouseLoc=true, showWaypoints=true, showCaves=true, showAnimals=true, dragScale=1, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, fontScale=1.0}
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.8.6, autoRemoveDeathpointDistance=2, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, fullscreenDoubleClickToCreate=true, managerDimensionFocus=false, minDistance=4, boldLabel=false, textureSmall=true, showDeathpointlabel=true, beaconEnabled=true, createDeathpoints=true, showName=true, disableStrikeThrough=false, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, timeFormat=HH:mm:ss, showDeviationLabel=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, showTexture=true, managerEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.8.6, port=8080, enabled=false}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.8.6, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=null, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=0, seedId=false, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, mapBiome=true, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=false, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.8.6, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, glErrorChecking=false, autoMapPoll=2000}
-[00:42:12] [main/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 3806,28ms
-[00:42:20] [main/INFO] [JourneymapClient] Journeymap PostInit
-[00:42:20] [main/ERROR] [FileHandler] Couldn't locate icons for flat: C:\Users\alexe\AppData\Roaming\.minecraft\versions\diario%20do%20futuro\mods\journeymap-1.16.5-5.8.6.jar\assets\journeymap\theme\flat
-[00:42:20] [main/INFO] [ThemeLoader] Preloaded theme textures: 0
-[00:42:20] [main/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 672,42ms
-[00:42:26] [JM-VersionCheck-1/ERROR] [VersionCheck] Could not check version URL
+[01:36:56] [main/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 1961,07ms
+[01:37:03] [main/INFO] [JourneymapClient] Journeymap PostInit
+[01:37:03] [main/ERROR] [FileHandler] Couldn't locate icons for flat: C:\Users\alexe\AppData\Roaming\.minecraft\versions\diario%20do%20futuro\mods\journeymap-1.16.5-5.8.6.jar\assets\journeymap\theme\flat
+[01:37:03] [main/INFO] [ThemeLoader] Preloaded theme textures: 0
+[01:37:03] [main/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 77,16ms
+[01:37:04] [JM-VersionCheck-1/ERROR] [VersionCheck] Could not check version URL
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192) ~[?:1.8.0_51]
 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949) ~[?:1.8.0_51]
@@ -55,7 +55,7 @@ javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: 
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57) ~[httpclient-4.3.3.jar:4.3.3]
 	at journeymap.common.version.VersionCheck.makeGetRequest(VersionCheck.java:211) [?:1.16.5-5.8.6]
 	at journeymap.common.version.VersionCheck.lambda$checkVersion$1(VersionCheck.java:121) [?:1.16.5-5.8.6]
-	at journeymap.common.version.VersionCheck$$Lambda$12899/1638396954.run(Unknown Source) [?:1.16.5-5.8.6]
+	at journeymap.common.version.VersionCheck$$Lambda$12891/792378642.run(Unknown Source) [?:1.16.5-5.8.6]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_51]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_51]
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
@@ -82,7 +82,7 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
 	... 28 more
-[00:42:29] [JM-VersionCheck-1/ERROR] [VersionCheck] Could not check version URL
+[01:37:05] [JM-VersionCheck-1/ERROR] [VersionCheck] Could not check version URL
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192) ~[?:1.8.0_51]
 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949) ~[?:1.8.0_51]
@@ -111,7 +111,7 @@ javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: 
 	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57) ~[httpclient-4.3.3.jar:4.3.3]
 	at journeymap.common.version.VersionCheck.makeGetRequest(VersionCheck.java:211) [?:1.16.5-5.8.6]
 	at journeymap.common.version.VersionCheck.lambda$checkVersion$1(VersionCheck.java:122) [?:1.16.5-5.8.6]
-	at journeymap.common.version.VersionCheck$$Lambda$12899/1638396954.run(Unknown Source) [?:1.16.5-5.8.6]
+	at journeymap.common.version.VersionCheck$$Lambda$12891/792378642.run(Unknown Source) [?:1.16.5-5.8.6]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_51]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_51]
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
@@ -138,11 +138,11 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
 	... 28 more
-[01:06:52] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
-[01:09:50] [main/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
-[01:09:52] [main/INFO] [WaypointStore] Loaded 9 waypoints from C:\Users\alexe\AppData\Roaming\.minecraft\versions\diario do futuro\journeymap\data\sp\Diario do Futuro 2\waypoints
-[01:09:52] [main/INFO] [JourneymapClient] Mapping started in C:\Users\alexe\AppData\Roaming\.minecraft\versions\diario do futuro\journeymap\data\sp\Diario do Futuro 2\overworld. Memory: 2472MB total, 507MB free 
-[01:10:30] [main/INFO] [ChatLog] 
-[01:49:56] [main/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
-[01:49:56] [main/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
-[02:31:29] [main/INFO] [JourneymapClient] Mapping halted in C:\Users\alexe\AppData\Roaming\.minecraft\versions\diario do futuro\journeymap\data\mp\offline\minecraft:overworld
+[01:55:54] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[01:55:54] [Thread-1/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[01:55:54] [Thread-1/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[01:57:41] [main/INFO] [ChatLog] 
+[01:57:41] [main/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[01:57:43] [main/INFO] [WaypointStore] Loaded 9 waypoints from C:\Users\alexe\AppData\Roaming\.minecraft\versions\diario do futuro\journeymap\data\sp\Diario do Futuro 2\waypoints
+[01:57:43] [main/INFO] [JourneymapClient] Mapping started in C:\Users\alexe\AppData\Roaming\.minecraft\versions\diario do futuro\journeymap\data\sp\Diario do Futuro 2\overworld. Memory: 2472MB total, 549MB free 
+[02:14:39] [main/INFO] [JourneymapClient] Mapping halted in C:\Users\alexe\AppData\Roaming\.minecraft\versions\diario do futuro\journeymap\data\mp\offline\minecraft:overworld

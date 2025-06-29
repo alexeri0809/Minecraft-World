@@ -883,6 +883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-28 03:42:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-06-20 02:38:55 +0100"
@@ -1288,6 +1294,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
     "criteria": {
       "has_leather": "2025-06-19 22:06:15 +0100"
+    },
+    "done": true
+  },
+  "projecte:dark_matter_pickaxe": {
+    "criteria": {
+      "dm_pick": "2025-06-28 03:04:15 +0100"
     },
     "done": true
   },
@@ -2950,6 +2962,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-06-28 02:32:51 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-19 21:09:39 +0100"
@@ -3001,6 +3019,12 @@
   "cfm:recipes/cfm/white_kitchen_drawer": {
     "criteria": {
       "has_terracotta": "2025-06-26 21:56:01 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_dropper": {
+    "criteria": {
+      "has_trapdoor": "2025-06-28 03:38:28 +0100"
     },
     "done": true
   },
@@ -3406,6 +3430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-28 13:36:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-19 21:13:46 +0100"
@@ -3800,6 +3830,12 @@
   "appliedenergistics2:recipes/appliedenergistics2/shaped/slabs/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-06-20 23:27:34 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-06-28 02:32:51 +0100"
     },
     "done": true
   },
@@ -6491,6 +6527,12 @@
       "has_white_wool": "2025-06-19 21:44:54 +0100"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "carrot": "2025-06-28 13:37:52 +0100"
+    },
+    "done": false
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_wallmount": {
     "criteria": {
