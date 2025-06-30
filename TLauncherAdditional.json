@@ -2895,6 +2895,70 @@
           "parser": true,
           "totalComments": 0,
           "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 348521,
+          "name": "Cloth Config API (FabricForgeNeoForge)",
+          "author": "shedaniel",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 821133,
+          "pictures": [],
+          "lanName": "cloth-config-forge",
+          "version": {
+            "id": 5729083,
+            "name": "cloth-config-4.17.132-forge",
+            "updateDate": 1726506387000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 31,
+                "name": "1.16.5"
+              },
+              {
+                "id": 30,
+                "name": "1.16.4"
+              }
+            ],
+            "metadata": {
+              "sha1": "4bff01e12befa4f8df52912a2c7e8dec254e00ed",
+              "size": 1465189,
+              "path": "mods/cloth-config-4.17.132-forge.jar",
+              "url": "/mods/348521/5729083/cloth-config-4.17.132-forge.jar"
+            },
+            "installed": 293727,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 155,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 61,
+            "name": "1.21.6"
+          },
+          "updated": 1750280400000,
+          "update": 1750280400000,
+          "downloadALL": 10150267,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
         }
       ],
       "resourcePacks": [],

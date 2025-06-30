@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2025-06-30 00:42:54 +0100"
+    },
+    "done": true
+  },
   "blockcarpentry:general/fence": {
     "criteria": {
       "requirement": "2025-06-25 20:46:31 +0100"
@@ -368,6 +374,12 @@
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-23 00:08:11 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_hedge": {
+    "criteria": {
+      "has_leaves": "2025-06-30 00:51:53 +0100"
     },
     "done": true
   },
@@ -775,6 +787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_lime_dye": "2025-06-30 00:44:09 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_copper_from_blasting": {
     "criteria": {
       "has_ore_copper": "2025-06-21 13:07:02 +0100"
@@ -898,6 +916,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-21 00:06:56 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_lime_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-06-30 00:44:09 +0100"
     },
     "done": true
   },
@@ -2224,6 +2248,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_cyan_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-06-30 00:53:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-23 00:08:11 +0100"
@@ -2713,6 +2743,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-06-19 21:56:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_green_dye": "2025-06-30 00:43:57 +0100"
     },
     "done": true
   },
@@ -3743,6 +3779,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_lime_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-06-30 00:44:09 +0100"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-06-26 22:57:50 +0100"
@@ -4040,6 +4082,12 @@
   "cfm:recipes/cfm/oak_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-06-26 21:52:29 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_green_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-06-30 00:43:57 +0100"
     },
     "done": true
   },
@@ -4932,6 +4980,12 @@
   "cfm:recipes/cfm/red_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-06-26 21:56:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice_from_freezing": {
+    "criteria": {
+      "has_ice": "2025-06-30 00:52:20 +0100"
     },
     "done": true
   },
@@ -5828,6 +5882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-06-30 00:52:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-06-19 21:09:38 +0100"
@@ -6123,6 +6183,12 @@
   "projecte:recipes/projecte/red_alchemical_bag": {
     "criteria": {
       "has_alchemical_chest": "2025-06-20 02:46:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_cyan_dye": "2025-06-30 00:53:11 +0100"
     },
     "done": true
   },
@@ -6657,6 +6723,12 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/glow_ball": {
     "criteria": {
       "has_item": "2025-06-20 01:40:08 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_green_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-06-30 00:43:57 +0100"
     },
     "done": true
   },
@@ -7299,6 +7371,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-06-19 21:56:50 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_cyan_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-06-30 00:53:11 +0100"
     },
     "done": true
   },

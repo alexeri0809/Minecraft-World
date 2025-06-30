@@ -1,4 +1,424 @@
 {
+  "cfm:recipes/cfm/stripped_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2025-06-23 00:50:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-06-23 00:50:09 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-23 00:50:09 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2025-06-23 00:19:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 19:33:22 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/rs_engineering": {
+    "criteria": {
+      "has_redstone": "2025-06-23 00:54:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-26 19:57:08 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 19:33:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-26 19:57:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-06-23 00:50:09 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-23 00:36:05 +0100"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/network_tool": {
+    "criteria": {
+      "network_tool": "2025-06-23 00:49:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 19:33:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-23 00:50:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-23 00:50:09 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2025-06-26 19:33:11 +0100"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-23 00:50:09 +0100"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 19:33:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-23 00:50:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2025-06-26 19:33:11 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-06-23 00:50:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 19:33:22 +0100"
+    },
+    "done": true
+  },
+  "projecte:red_matter_furnace": {
+    "criteria": {
+      "rm_furnace": "2025-06-26 19:34:33 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/medium_covalence_dust": {
+    "criteria": {
+      "has_redstone": "2025-06-23 00:54:38 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-06-26 19:57:08 +0100"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 19:33:22 +0100"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/warped": {
+    "criteria": {
+      "has_wood": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 19:33:22 +0100"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2025-06-23 00:37:14 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/survey_tools": {
+    "criteria": {
+      "has_hammer": "2025-06-23 00:28:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-06-26 19:57:08 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/green_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-06-23 00:19:00 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 19:33:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-06-26 19:57:07 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/place_windmill": {
+    "criteria": {
+      "windmill": "2025-06-23 00:25:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-06-23 00:54:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-23 00:50:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-23 00:54:38 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/lime_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-23 00:19:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-26 19:57:08 +0100"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/charger": {
+    "criteria": {
+      "certus": "2025-06-23 00:42:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 19:33:22 +0100"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-06-23 00:19:00 +0100"
@@ -35,9 +455,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
+  "cfm:recipes/cfm/spruce_kitchen_sink_dark": {
     "criteria": {
-      "has_water_bucket": "2025-06-23 00:50:15 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
@@ -47,21 +467,27 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-26 19:57:08 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "cfm:recipes/cfm/light_gray_kitchen_sink": {
     "criteria": {
-      "has_stone": "2025-06-23 00:50:09 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+  "cfm:recipes/cfm/purple_kitchen_sink": {
     "criteria": {
-      "has_stone": "2025-06-23 00:50:09 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
@@ -77,12 +503,6 @@
     },
     "done": true
   },
-  "tconstruct:tools/materials_and_you": {
-    "criteria": {
-      "crafted_book": "2025-06-23 00:19:00 +0100"
-    },
-    "done": true
-  },
   "appliedenergistics2:main/controller": {
     "criteria": {
       "certus": "2025-06-23 00:36:30 +0100"
@@ -95,9 +515,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_chestplate": {
+  "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
     "criteria": {
-      "has_gold_ingot": "2025-06-26 19:33:22 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
@@ -107,21 +533,21 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/immersiveengineering/crafting/rs_engineering": {
-    "criteria": {
-      "has_redstone": "2025-06-23 00:54:38 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-06-26 19:57:08 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-06-23 00:50:09 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
@@ -137,9 +563,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/tools/golden_hoe": {
+  "cfm:recipes/cfm/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
-      "has_gold_ingot": "2025-06-26 19:33:22 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
@@ -149,21 +575,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-06-26 19:57:08 +0100"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-06-23 00:19:00 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2025-06-23 00:50:09 +0100"
     },
     "done": true
   },
@@ -185,15 +599,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "cfm:recipes/cfm/orange_kitchen_sink": {
     "criteria": {
-      "has_lots_of_items": "2025-06-23 00:36:05 +0100"
-    },
-    "done": true
-  },
-  "appliedenergistics2:main/network_tool": {
-    "criteria": {
-      "network_tool": "2025-06-23 00:49:03 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
@@ -203,27 +611,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-26 19:33:22 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-23 00:50:09 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-06-26 19:33:22 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-23 00:50:09 +0100"
     },
     "done": true
   },
@@ -239,9 +629,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+  "cfm:recipes/cfm/stripped_acacia_kitchen_sink_light": {
     "criteria": {
-      "has_gold_ore": "2025-06-26 19:33:11 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
@@ -257,15 +647,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
+  "cfm:recipes/cfm/stripped_warped_kitchen_sink_light": {
     "criteria": {
-      "has_stone": "2025-06-23 00:50:09 +0100"
-    },
-    "done": true
-  },
-  "ironchest:recipes/ironchest/chests/iron_gold_chest": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-26 19:33:22 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
@@ -281,9 +665,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+  "cfm:recipes/cfm/spruce_kitchen_sink_light": {
     "criteria": {
-      "has_stone": "2025-06-23 00:50:09 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
@@ -293,27 +677,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot": {
-    "criteria": {
-      "has_gold_ore": "2025-06-26 19:33:11 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2025-06-23 00:50:46 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-26 19:33:22 +0100"
-    },
-    "done": true
-  },
   "appliedenergistics2:main/root": {
     "criteria": {
       "certus": "2025-06-23 00:54:26 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
@@ -335,12 +707,6 @@
     },
     "done": true
   },
-  "projecte:red_matter_furnace": {
-    "criteria": {
-      "rm_furnace": "2025-06-26 19:34:33 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-23 00:54:38 +0100"
@@ -359,21 +725,9 @@
     },
     "done": true
   },
-  "projecte:recipes/projecte/medium_covalence_dust": {
-    "criteria": {
-      "has_redstone": "2025-06-23 00:54:38 +0100"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/generator": {
     "criteria": {
       "has_dynamo": "2025-06-23 00:25:35 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2025-06-26 19:57:08 +0100"
     },
     "done": true
   },
@@ -383,39 +737,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget": {
+  "cfm:recipes/cfm/warped_kitchen_sink_light": {
     "criteria": {
-      "has_gold_ingot": "2025-06-26 19:33:22 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_axe": {
+  "cfm:recipes/cfm/acacia_kitchen_sink_dark": {
     "criteria": {
-      "has_gold_ingot": "2025-06-26 19:33:22 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
-  "appliedenergistics2:main/crafting_terminal": {
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
     "criteria": {
-      "certus": "2025-06-23 00:37:14 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-06-23 00:54:38 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/immersiveengineering/crafting/survey_tools": {
-    "criteria": {
-      "has_hammer": "2025-06-23 00:28:13 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-06-26 19:57:08 +0100"
     },
     "done": true
   },
@@ -437,18 +779,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2025-06-23 00:19:00 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-26 19:33:22 +0100"
-    },
-    "done": true
-  },
   "appliedenergistics2:main/glass_cable": {
     "criteria": {
       "certus": "2025-06-23 00:37:27 +0100"
@@ -467,15 +797,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab": {
+  "cfm:recipes/cfm/blue_kitchen_sink": {
     "criteria": {
-      "has_diorite": "2025-06-26 19:57:07 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
-  "immersiveengineering:main/place_windmill": {
+  "cfm:recipes/cfm/jungle_kitchen_sink_dark": {
     "criteria": {
-      "windmill": "2025-06-23 00:25:48 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
@@ -485,9 +815,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/note_block": {
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_dark": {
     "criteria": {
-      "has_redstone": "2025-06-23 00:54:38 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
@@ -497,9 +827,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_button": {
+  "cfm:recipes/cfm/light_blue_kitchen_sink": {
     "criteria": {
-      "has_stone": "2025-06-23 00:50:09 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-06-30 01:03:07 +0100"
     },
     "done": true
   },
@@ -509,21 +845,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dropper": {
+  "cfm:recipes/cfm/stripped_jungle_kitchen_sink_light": {
     "criteria": {
-      "has_redstone": "2025-06-23 00:54:38 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
-      "has_upgrade_base": "2025-06-23 00:19:00 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+  "cfm:recipes/cfm/yellow_kitchen_sink": {
     "criteria": {
-      "has_diorite": "2025-06-26 19:57:08 +0100"
+      "has_bucket": "2025-06-30 01:03:08 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
@@ -533,21 +875,15 @@
     },
     "done": true
   },
-  "appliedenergistics2:main/charger": {
-    "criteria": {
-      "certus": "2025-06-23 00:42:20 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2025-06-26 19:33:22 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-06-26 19:33:22 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-06-30 01:03:08 +0100"
     },
     "done": true
   },
